@@ -1,0 +1,14 @@
+C:\test-web-app-609\demo\bin\Debug\netcoreapp2.1\demo.deps.json
+C:\test-web-app-609\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.json
+C:\test-web-app-609\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.dev.json
+C:\test-web-app-609\demo\bin\Debug\netcoreapp2.1\demo.dll
+C:\test-web-app-609\demo\bin\Debug\netcoreapp2.1\demo.pdb
+C:\test-web-app-609\demo\obj\Debug\netcoreapp2.1\demo.csprojAssemblyReference.cache
+C:\test-web-app-609\demo\obj\Debug\netcoreapp2.1\demo.csproj.CoreCompileInputs.cache
+C:\test-web-app-609\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cache
+C:\test-web-app-609\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cs
+C:\test-web-app-609\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfoInputs.cache
+C:\test-web-app-609\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfo.cs
+C:\test-web-app-609\demo\obj\Debug\netcoreapp2.1\demo.RazorTargetAssemblyInfo.cache
+C:\test-web-app-609\demo\obj\Debug\netcoreapp2.1\demo.dll
+C:\test-web-app-609\demo\obj\Debug\netcoreapp2.1\demo.pdb
